@@ -31,7 +31,7 @@ I build purposeful tech — especially where cars, people, and real-time systems
 
 ### 🧠 Learning & Building
 
-<img src="https://media.giphy.com/media/3ohs7KViFTrLxXFp5C/giphy.gif" width="100" align="right" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamx2bXZpNzAyNTdhMGswMzl0NHoxYTJjdTI3OXh5cmdkNDltNG5zZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUXCTpkqwLeh2SrZ4T/giphy.gif" width="100" align="right" />
  
 - Cloud microservices & observability  
 - 🦀 Exploring Rust for high-performance tooling  
