@@ -1,6 +1,6 @@
 # Hey, I'm Smyekh 👋
 
-<img src="https://media.giphy.com/media/xUOxfjsWv3xkU1Wc6c/giphy.gif" width="100" align="right" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG85MHk5dmhidGQyZThtcXJ4Zm1zaHk4am9hamhzbGtxZWppeTAwZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" width="100" align="right" />
 
 I’m a full-stack developer, inventor, and former student-athlete.  
 I build purposeful tech — especially where cars, people, and real-time systems meet.
